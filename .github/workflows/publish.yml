@@ -37,7 +37,7 @@ jobs:
           echo "::group::Copy _invariant to all language directories, package them"
           SRC_DIR="_invariant"
           mkdir -p $SRC_DIR
-          mkdir -p output
+          mkdir -p _output
           echo "::endgroup::"
           
           for dir in */ ; do
@@ -52,7 +52,7 @@ jobs:
             cp -r -T -v "$SRC_DIR"/. "$dir"/
             cd $dir
             echo "Zipping ..."
-            zip -r -9 ../output/Help-$SRC_DIR.zip .
+            zip -r -9 ../_output/Help-$SRC_DIR.zip .
             cd ..
             echo "Language: $dir done."
             echo "::endgroup::"
@@ -116,5 +116,5 @@ jobs:
           TAG: ${{ steps.crelease.outputs.tag }}
           REPO: ${{ github.repository }}
         run: |
-          cd output
+          cd _output
           find . -type f -name "*.zip" -exec gh release upload "$TAG" {} --repo "$REPO" --clobber \;
