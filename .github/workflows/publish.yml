@@ -114,7 +114,7 @@ jobs:
         if: steps.pub.outputs.exists == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets._TOKEN }}
-          TAG: ${{ steps.crelease.outputs.tag }}
+          TAG: ${{ steps.newtag.outputs.tag }}
           REPO: ${{ github.repository }}
         run: |
           cd _output
