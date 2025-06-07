@@ -14,3 +14,4 @@
 - &#x1F4C4; Print friendly version (prefers greyscale)
 - &#128172; Tooltips in English, Czech (other languages planned)
 - &#129702; Lightweight - under 1 MiB, 8 files + 1 subfolder (most part of solution compressed)
+- &#9878; MIT licensed

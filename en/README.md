@@ -1,6 +1,6 @@
 # &#127760;HelpViewer
 
-is a modern, portable and fast tool for viewing Markdown and HTML documentation directly from ZIP archives. No server or backend required - just open the **index.html** in your browser.
+is a modern, portable and fast tool for viewing Markdown and HTML documentation directly from ZIP archives. No server or backend required - just open the **index.html** in your browser. MIT licensed.
 
 ## How it works
 
@@ -22,4 +22,13 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
   insertDownloadLink();
 </script>
 
+## Used 3rd party products
+
+- [JSZip library][JSZIP]
+- [Marked][Marked]
+- [Mermaid][Mermaid]
+
+[JSZIP]: http://jszip.org/ "JSZip JavaScript library - ZIP files manipulation"
+[Marked]: https://marked.js.org/ "Marked JavaScript library - md files to HTML renderer"
+[Mermaid]: https://mermaid.js.org/ "Mermaid library - renderer for diagrams defined by specific textual definitions"
 [bypassCORS]: corsPolicy.md "Browser possibly blocking local file access (file://) due to CORS policy restrictions"
