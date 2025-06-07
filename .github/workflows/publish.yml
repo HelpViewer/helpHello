@@ -52,7 +52,7 @@ jobs:
             cp -r -T -v "$SRC_DIR"/. "$dir"/
             cd $dir
             echo "Zipping ..."
-            zip -r -9 ../_output/Help-$SRC_DIR.zip .
+            zip -r -9 ../_output/Help-$dir.zip .
             cd ..
             echo "Language: $dir done."
             echo "::endgroup::"
@@ -118,4 +118,5 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           cd _output
+          find . -type f -name "*.zip" -exec echo "Language bundle to upload: {}"
           find . -type f -name "*.zip" -exec gh release upload "$TAG" {} --repo "$REPO" --clobber \;
