@@ -118,5 +118,11 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           cd _output
-          find . -type f -name "*.zip" -exec echo "Language bundle to upload: {}" \;
-          find . -type f -name "*.zip" -exec gh release upload "$TAG" {} --repo "$REPO" --clobber \;
+          echo "$TAG" >> _version.txt
+          echo "$REPO" >> _prjname.txt
+          
+          find . -type f -name "*.zip" -print0 | while IFS= read -r -d '' file; do
+            echo "Language bundle to upload: $file"
+            zip -u "$file" _version.txt _prjname.txt
+            gh release upload "$TAG" "$file" --repo "$REPO" --clobber
+          done
