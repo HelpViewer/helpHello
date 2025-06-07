@@ -57,6 +57,7 @@ jobs:
             echo "Language: $dir done."
             echo "::endgroup::"
           done
+          echo "exists=true" >> $GITHUB_OUTPUT
           echo "Bundling finished."
 
       - name: Create tag
