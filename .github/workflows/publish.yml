@@ -104,8 +104,8 @@ jobs:
         if: steps.pub.outputs.exists == 'true'
         uses: actions/create-release@v1
         with:
-          tag_name: ${{ steps.newtag.outputs.version }}
-          release_name: ${{ steps.newtag.outputs.version }}
+          tag_name: ${{ steps.newtag.outputs.tag }}
+          release_name: ${{ steps.newtag.outputs.tag }}
           body: ${{ steps.newtag.outputs.body }}
         env:
           GITHUB_TOKEN: ${{ secrets._TOKEN }}
