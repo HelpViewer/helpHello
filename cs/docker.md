@@ -1,4 +1,4 @@
-# &#128230;Docker obraz
+# &#x1F433;Obrazy pro kontejnery
 
 ## Stažení
 Stáhněte obraz z [GHCR][target] jedním z příkazů:

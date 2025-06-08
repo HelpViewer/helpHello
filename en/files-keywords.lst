@@ -2,8 +2,8 @@ README.md|Overview|2;5;6;7;8;9;11;0
 features.md|Features list|2;3;10;11
 corsPolicy.md|CORS policy|0;1;9;12
 trouble.md|Troubleshooting|12
-docker.md|Docker image instructions|17;16;15
+docker.md|Container image instructions|17;16;15;19
 https://github.com/HelpViewer/HelpViewer|GitHub repository|13;14
-https://github.com/HelpViewer/HelpViewer/pkgs/container/helpviewer|Docker image|17;16;15;9;8
+https://github.com/HelpViewer/HelpViewer/pkgs/container/helpviewer|Docker/Podman image|17;16;15;9;8;19
 README.md#how-it-works|Starting application|4
 trouble.md#only-a-blank-page-is-displayed|Blank page solution|18

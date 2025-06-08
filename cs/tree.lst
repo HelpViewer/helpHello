@@ -1,5 +1,6 @@
 &#127760; HelpViewer|Přehled||README.md
  &#9881;&#65039; Funkce|Seznam funkcí||features.md
 &#128295;Řešení problémů|Návody k řešení problémů||trouble.md
-&#128230; Docker obraz|Informace o obrazech pro kontejnery||docker.md
+&#x1F433; Obrazy pro kontejnery|Informace o obrazech pro kontejnery||docker.md
+&#x1F680; Stáhnout|Balíček pro offline použití||=latestApp
 &#128279;GitHub|GitHub repozitář||https://github.com/HelpViewer/HelpViewer

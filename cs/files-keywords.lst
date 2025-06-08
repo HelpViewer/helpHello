@@ -2,8 +2,8 @@ README.md|Přehled|2;5;6;7;8;9;11;0
 features.md|Seznam funkcí|2;3;10;11
 corsPolicy.md|CORS politiky|0;1;9;12
 trouble.md|Řešení problémů|12
-docker.md|Postupy pro Docker|17;16;15
+docker.md|Postupy pro kontejnerizaci|17;16;15;19
 https://github.com/HelpViewer/HelpViewer|GitHub repozitář|13;14
-https://github.com/HelpViewer/HelpViewer/pkgs/container/helpviewer|Obraz pro Docker|17;16;15;9;8
+https://github.com/HelpViewer/HelpViewer/pkgs/container/helpviewer|Obraz pro Docker/Podman|17;16;15;9;8;19
 README.md#jak-to-funguje|Spouštění aplikace|4
 trouble.md#only-a-blank-page-is-displayed|Prázdná stránka|18

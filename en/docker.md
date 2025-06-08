@@ -1,4 +1,4 @@
-# &#128230;Docker image
+# &#x1F433;Container images
 
 ## Download
 You need to download image from [GHCR][target] by one of these commands:

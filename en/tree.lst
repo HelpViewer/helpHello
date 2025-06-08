@@ -1,5 +1,6 @@
 &#127760; HelpViewer|Overview||README.md
  &#9881;&#65039; Features|Features list||features.md
 &#128295;Troubleshooting|Troubleshooting guide||trouble.md
-&#128230; Docker image|Image information||docker.md
+&#x1F433; Container images|Container images information||docker.md
+&#x1F680; Deployment package|Deployment package||=latestApp
 &#128279;GitHub|GitHub repository||https://github.com/HelpViewer/HelpViewer
