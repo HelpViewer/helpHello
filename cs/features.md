@@ -13,7 +13,7 @@
 - &#127912; 4 vestavěné barevné režimy: barva (výchozí), stupně šedi, bílá a černá, černá a bílá
 - &#x1F4C4; Verze vhodná pro tisk (upřednostňuje stupně šedi)
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
-- &#129702; Nízká velikost – pod 1 MB, 9 souborů a 1 podsložka (většina obsahu je zkomprimovaná)
+- &#129702; Nízká velikost – pod 1 MB, 11 souborů a 1 podsložka (většina obsahu je zkomprimovaná)
 - &#9878; Licence: MIT
 
 ## &#128452;&#65039; Nasazení na server není nutné, ale pokud se tak rozhodnete, tak navíc ...
