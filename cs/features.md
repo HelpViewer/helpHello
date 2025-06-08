@@ -1,7 +1,7 @@
 # &#9881;&#65039;Funkce
 
 - &#128230; Není nutná žádná instalace - jen rozzipujte a spusťte místní soubor (klidně i bez Internetu)
-- &#127760; Multiplatformní - pracuje na všech operačních systémech přes webový prohlížeč
+- &#128187; Multiplatformní - pracuje na všech operačních systémech přes webový prohlížeč
 - &#128244; Může fungovat v offline režimu bez backendu nebo lokálního serveru (potřebuje běžet v prohlížeči s vypnutými CORS politikami)
 - 🧭 Intuitivní uživatelské rozhraní
 - &#128241; Responzivní web (podporuje desktop i mobilní zařízení)
@@ -15,3 +15,7 @@
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
 - &#129702; Nízká velikost – pod 1 MB, 9 souborů a 1 podsložka (většina obsahu je zkomprimovaná)
 - &#9878; Licence: MIT
+
+## &#128452;&#65039; Nasazení na server není nutné, ale pokud se tak rozhodnete, tak navíc ...
+
+- &#127760; Progresivní webová aplikace (PWA) instalovatelná do zařízení jako odkaz
