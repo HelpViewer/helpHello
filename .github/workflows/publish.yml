@@ -35,9 +35,20 @@ jobs:
         if: ${{ github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[pub]') }}
         run: |
           echo "::group::Copy _invariant to all language directories, package them"
+          mkdir -p _output
+          echo "Base folder for help ..."
+          FOLDER="_base"
+          if [ -d "$FOLDER" ] && [ "$(ls -A $FOLDER)" ]; then
+            cd "$FOLDER"
+            zip -r -9 ../_output/Help-.zip .
+            cd ..
+          else
+            echo "Directory $FOLDER not exists, skipping ..."
+          fi
+          echo "End : Base folder for help"
+          
           SRC_DIR="_invariant"
           mkdir -p $SRC_DIR
-          mkdir -p _output
           echo "::endgroup::"
           
           for dir in */ ; do
@@ -51,6 +62,7 @@ jobs:
             echo "Copying language invariant data ..."
             cp -r -T -v "$SRC_DIR"/. "$dir"/
             cd $dir
+            echo "_lang|$dir" >> _config.txt
             echo "Zipping ..."
             zip -r -9 ../_output/Help-$dir.zip .
             cd ..
@@ -118,11 +130,11 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           cd _output
-          echo "$TAG" >> _version.txt
-          echo "$REPO" >> _prjname.txt
+          echo "_version|$TAG" >> _config.txt
+          echo "_prjname|$REPO" >> _config.txt
           
           find . -type f -name "*.zip" -print0 | while IFS= read -r -d '' file; do
             echo "Language bundle to upload: $file"
-            zip -u "$file" _version.txt _prjname.txt
+            zip -u "$file" _config.txt
             gh release upload "$TAG" "$file" --repo "$REPO" --clobber
           done
