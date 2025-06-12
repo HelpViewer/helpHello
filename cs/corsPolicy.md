@@ -4,16 +4,10 @@ Vidíte jen prázdnou stránku jako u about:blank? Pak prohlížeč nenačítá 
 Prohlížeč blokuje přístup k místním souborům (file://) kvůli CORS politikám. 
 
 Prohlížeč musíte spustit s těmito parametry, aby se CORS omezení vypnula:
-- Firefox:
-  > Adresní řádek: 
-  about:config
-  > 
-  > hledat:
-  privacy.file_unique_origin
-  > 
-  > nastavit na:
-  false
-  
 - Chrome:
   > příkazový řádek:
   > chrome.exe --disable-site-isolation-trials --disable-web-security --user-data-dir="C:\temp"
+
+- Edge:
+  > příkazový řádek:
+  > msedge --disable-web-security --user-data-dir="C:\temp"
