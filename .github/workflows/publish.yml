@@ -30,6 +30,13 @@ jobs:
           echo "[pub] string is missing in commit message, skipping ..."
           exit 0
 
+      - name: Clone another repo into folder xxx
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p _ftsbuilder
+          git clone https://x-access-token:${TOKEN}@github.com/HelpViewer/fulltextSearchDBBuilder.git _ftsbuilder
+
       - name: Publish
         id: pub
         if: ${{ github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[pub]') }}
@@ -63,6 +70,9 @@ jobs:
             cp -r -T -v "$SRC_DIR"/. "$dir"/
             cd $dir
             echo "_lang|$dir" >> _config.txt
+            echo "::endgroup::"
+            [ -f "./fts-keywords.lst" ] && sh ../_ftsbuilder/indexBuild.sh "./"
+            echo "::group::Language: $dir - zipping directory"
             echo "Zipping ..."
             zip -r -9 ../_output/Help-$dir.zip .
             cd ..
