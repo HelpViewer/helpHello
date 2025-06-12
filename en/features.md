@@ -7,7 +7,7 @@
 - &#128241; Responsive (desktop and other devices supported)
 - &#8596; Seamless full-screen expansion of topic content
 - &#128194; Hierarchical view of topics (collapsible topic tree)
-- &#128218; Linking glossary terms to relevant topics and files
+- &#x1F4C7; Linking glossary terms to relevant topics and files
 - &#x1F50E; Full-text search dictionary for chapter contents
 - &#9197; Integrated topic navigation buttons
 - &#128278; Bookmarks for chapters supported
