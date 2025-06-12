@@ -71,7 +71,7 @@ jobs:
             cd $dir
             echo "_lang|$dir" >> _config.txt
             echo "::endgroup::"
-            [ -f "./fts-keywords.lst" ] && sh ../_ftsbuilder/indexBuild.sh "./"
+            [ -f "./fts-keywords.lst" ] && bash ../_ftsbuilder/indexBuild.sh "."
             echo "::group::Language: $dir - zipping directory"
             echo "Zipping ..."
             zip -r -9 ../_output/Help-$dir.zip .
