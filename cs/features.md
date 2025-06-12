@@ -8,6 +8,7 @@
 - &#8596; Snadný přechod do full screen režimu pro zvětšení plochy prohlížené kapitoly
 - &#128194; Hierarchický strom témat s možností otevírání a uzavírání složek
 - &#128218; Propojení pojmů s příslušnými kapitolami a soubory
+- &#x1F50E; Slovník pro fulltextové vyhledávání obsahu kapitol
 - &#9197; Integrovaná tlačítka pro základní navigaci v nápovědě
 - &#128278; Podpora záložek pro podsekce v kapitole
 - &#127912; 4 vestavěné barevné režimy: barva (výchozí), stupně šedi, bílá a černá, černá a bílá
