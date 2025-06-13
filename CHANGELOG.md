@@ -1,5 +1,9 @@
 # Changelog
 
+## 20250613
+- CZ, EN : Link to user quick guide
+- CZ, EN : features : keywords icon changed to the same UI icon
+
 ## 20250612
 - CZ, EN : features : updated files count in bundle
 - metadata preparation changed, base directory with CSS support added
