@@ -9,7 +9,7 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 3. Otevřete **index.html** v prohlížeči.
 4. Nastavte URL parametr **?d=X**, kde **X** bude cesta k ZIP souboru s nápovědou.  
    Pokud toto neuděláte, **./hlp/Help-{vybraný jazyk prohlížeče}.zip** bude určeno jako výchozí.
-5. Uvidíte dokumentaci přímo v HelpViewer, podobně jako teď vidíte tento web. 
+5. Uvidíte [uživatelskou dokumentaci][userdoc] přímo v HelpViewer, podobně jako teď vidíte tento web. 
 
 <script>
   async function insertDownloadLink() {
@@ -32,3 +32,4 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 [Marked]: https://marked.js.org/ "Marked - vypisování a formátování md souborů do HTML formátu"
 [Mermaid]: https://mermaid.js.org/ "Mermaid - vykresluje grafy a schémata podle speciálních textových definic"
 [bypassCORS]: corsPolicy.md "Prohlížeč může blokovat přístup k místním souborům (file://) kvůli CORS politikám"
+[userdoc]: ?d=hlp-user/Help-__.zip "User quick guide"

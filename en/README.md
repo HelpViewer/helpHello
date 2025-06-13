@@ -9,7 +9,7 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
 3. Open the **index.html** file in your browser.
 4. Set the URL parameter **?d=X**, where **X** is the path to your ZIP file.  
    If you skip this step, **./hlp/Help-{current language}.zip** will be used by default.
-5. You will see the documentation directly in HelpViewer, just like you are seeing this web page. 
+5. You will see e.g. the [user documentation][userdoc] directly in HelpViewer, just like you are seeing this web page. 
 
 <script>
   async function insertDownloadLink() {
@@ -32,3 +32,4 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
 [Marked]: https://marked.js.org/ "Marked JavaScript library - md files to HTML renderer"
 [Mermaid]: https://mermaid.js.org/ "Mermaid library - renderer for diagrams defined by specific textual definitions"
 [bypassCORS]: corsPolicy.md "Browser possibly blocking local file access (file://) due to CORS policy restrictions"
+[userdoc]: ?d=hlp-user/Help-__.zip "User quick guide"
