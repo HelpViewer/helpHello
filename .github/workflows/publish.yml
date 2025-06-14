@@ -58,7 +58,7 @@ jobs:
           mkdir -p $SRC_DIR
           echo "::endgroup::"
 
-          langdirs=$(find . -maxdepth 1 -type d ! -name '.' -printf '%P\n' | paste -sd';')
+          langdirs=$(find . -maxdepth 1 -type d ! -name '.' ! -name '.*' ! -name '_*' -printf '%P\n' | paste -sd';')
           
           for dir in */ ; do
             dir=${dir%/}
