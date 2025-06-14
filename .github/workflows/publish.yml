@@ -57,6 +57,9 @@ jobs:
           SRC_DIR="_invariant"
           mkdir -p $SRC_DIR
           echo "::endgroup::"
+
+          langdirs=$(printf "%s;" */)
+          langdirs=${dirs%;}
           
           for dir in */ ; do
             dir=${dir%/}
@@ -70,8 +73,9 @@ jobs:
             cp -r -T -v "$SRC_DIR"/. "$dir"/
             cd $dir
             echo "_lang|$dir" >> _config.txt
+            echo "_langs|$langdirs" >> _config.txt
             echo "::endgroup::"
-            [ -f "./fts-keywords.lst" ] && bash ../_ftsbuilder/indexBuild.sh "."
+            [ -f "./fts-keywords.lst" ] && bash ../_ftsbuilder/indexBuild.sh "." "$dir"
             echo "::group::Language: $dir - zipping directory"
             echo "Zipping ..."
             zip -r -9 ../_output/Help-$dir.zip .
