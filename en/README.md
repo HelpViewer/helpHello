@@ -1,6 +1,6 @@
 # &#127760;HelpViewer
 
-is a modern, portable and fast tool for viewing Markdown and HTML documentation directly from ZIP archives. No server or backend required - just open the **index.html** in your browser. MIT licensed.
+is a modern, portable and fast tool for viewing Markdown and HTML documentation directly from ZIP archives or from a local directory where they have been unpacked. No server or backend required - just open the **index.html** in your browser. MIT licensed.
 
 ## How it works
 

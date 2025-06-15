@@ -1,6 +1,6 @@
 # &#127760;HelpViewer
 
-je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML přímo z archivů ZIP. Není potřeba žádná instalace, žádný server ani backend - stačí otevřít soubor **index.html** v prohlížeči. Licence: MIT.
+je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML přímo z archivů ZIP nebo ze složky kde bude rozbalen. Není potřeba žádná instalace, žádný server ani backend - stačí otevřít soubor **index.html** v prohlížeči. Licence: MIT.
 
 ## Jak to funguje
 
