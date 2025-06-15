@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250615
+- CZ, EN : Mentioned ZIP help files can be also unpacked now
+
 ## 20250613
 - CZ, EN : Link to user quick guide
 - CZ, EN : features : keywords icon changed to the same UI icon
