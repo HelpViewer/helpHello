@@ -1,5 +1,9 @@
 # Changelog
 
+## 20250621
+- CZ, EN : Mentioned possible usage, applications and ideas
+- CZ, EN : Mentioned Accessibility stats in features
+
 ## 20250615
 - CZ, EN : Mentioned ZIP help files can be also unpacked now
 
