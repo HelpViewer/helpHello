@@ -12,6 +12,7 @@
 - &#9197; Integrated topic navigation buttons
 - &#128278; Bookmarks for chapters supported
 - &#127912; Four native color schemes: color (default), greyscale, white on black, and black on white
+- &#9855; Accessibility rules WCAG 2.1 implemented (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - &#x1F4C4; Print friendly version (prefers greyscale)
 - &#128172; Tooltips in English, Czech (other languages planned)
 - &#129702; Lightweight - under 1 MiB, 11 files + 1 subfolder (most part of solution compressed)
@@ -20,3 +21,5 @@
 ## &#128452;&#65039; Deployment to a server is not required, if you choose to do so ...
 
 - &#127760; Progressive Web Application (PWA), installable directly to your device for quick access.
+
+[waverep]: https://wave.webaim.org/report#/https://helpviewer.github.io "WAVE WebAim report"

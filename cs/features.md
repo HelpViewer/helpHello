@@ -12,6 +12,7 @@
 - &#9197; Integrovaná tlačítka pro základní navigaci v nápovědě
 - &#128278; Podpora záložek pro podsekce v kapitole
 - &#127912; 4 vestavěné barevné režimy: barva (výchozí), stupně šedi, bílá a černá, černá a bílá
+- &#9855; Zohlednění přístupnosti – WCAG 2.1 (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - &#x1F4C4; Verze vhodná pro tisk (upřednostňuje stupně šedi)
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
 - &#129702; Nízká velikost – pod 1 MB, 11 souborů a 1 podsložka (většina obsahu je zkomprimovaná)
@@ -20,3 +21,5 @@
 ## &#128452;&#65039; Nasazení na server není nutné, ale pokud se tak rozhodnete, tak navíc ...
 
 - &#127760; Progresivní webová aplikace (PWA) instalovatelná do zařízení jako odkaz
+
+[waverep]: https://wave.webaim.org/report#/https://helpviewer.github.io "WAVE WebAim zpráva"
