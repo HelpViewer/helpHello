@@ -32,4 +32,4 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 [Marked]: https://marked.js.org/ "Marked - vypisování a formátování md souborů do HTML formátu"
 [Mermaid]: https://mermaid.js.org/ "Mermaid - vykresluje grafy a schémata podle speciálních textových definic"
 [bypassCORS]: corsPolicy.md "Prohlížeč může blokovat přístup k místním souborům (file://) kvůli CORS politikám"
-[userdoc]: ?d=hlp-user/Help-__.zip "User quick guide"
+[userdoc]: ?d=hlp-user/Help-__.zip "Rychlá příručka pro uživatele"
