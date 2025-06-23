@@ -5,6 +5,7 @@ trouble.md|Řešení problémů
 docker.md|Postupy pro kontejnerizaci
 https://github.com/HelpViewer/HelpViewer|GitHub repozitář
 https://github.com/HelpViewer/HelpViewer/pkgs/container/helpviewer|Obraz pro Docker/Podman
-README.md#how-it-works|Spouštění aplikace
+README.md#jak-to-funguje|Spouštění aplikace
 trouble.md#only-a-blank-page-is-displayed|Prázdná stránka
 ideas.md|Možné aplikace
+workmode.md|Režimy práce
