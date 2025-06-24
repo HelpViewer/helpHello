@@ -9,6 +9,8 @@
 - Místně jako prohlížeč jednotlivého markdown souboru:
 ```
 .../index.html?d=cesta/k/adresáři/&p=soubor.md
+.../index.html?d=./&p=cesta/k/adresáři/soubor.md
+.../index.html?d=/&p=cesta/k/adresáři/soubor.md
 ```
 - Na serveru podporujícím statické stránky (například tento web)
 - V Docker/Podman [kontejneru][containers] v rámci vlastní infrastruktury (systém kontinuální integrace připravuje při každém vydání OCI-kompatibilní kontejnerový obraz)

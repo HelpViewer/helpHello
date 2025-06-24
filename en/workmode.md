@@ -9,6 +9,8 @@
 - Locally as a single markdown file viewer:
 ```
 .../index.html?d=path/to/directory/&p=file.md
+.../index.html?d=./&p=path/to/directory/file.md
+.../index.html?d=/&p=path/to/directory/file.md
 ```
 - Static web hosting (e.g. this web)
 - In Docker/Podman [container][containers] in your own infrastructure (CI/CD pipeline prepares OCI-compatible container image in every release)
