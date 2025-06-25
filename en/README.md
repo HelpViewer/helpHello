@@ -7,7 +7,7 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
 1. Download the deployment package from <span id="linkhereI"></span> and unzip it.
 2. Start your browser with [CORS restrictions][bypassCORS] disabled, or you will only see a blank page.
 3. Open the **index.html** file in your browser.
-4. Set the URL parameter **?d=X**, where **X** is the path to your ZIP file.  
+4. Set the URL parameter **?d=X**, where **X** is the path to your ZIP file or you can define path ending with **/** if you want to read a directory.  
    If you skip this step, **./hlp/Help-{current language}.zip** will be used by default.
 5. You will see e.g. the [user documentation][userdoc] directly in HelpViewer, just like you are seeing this web page. 
 

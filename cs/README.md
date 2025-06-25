@@ -7,7 +7,7 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 1. Stáhněte si balíček <span id="linkhereI"></span> a rozbalte jej.
 2. Spusťte prohlížeč bez [CORS omezení][bypassCORS] nebo budete vidět pouze prázdnou stránku.
 3. Otevřete **index.html** v prohlížeči.
-4. Nastavte URL parametr **?d=X**, kde **X** bude cesta k ZIP souboru s nápovědou.  
+4. Nastavte URL parametr **?d=X**, kde **X** bude cesta k ZIP souboru s nápovědou nebo bude končit **/**, pokud má být čten obsah adresáře.  
    Pokud toto neuděláte, **./hlp/Help-{vybraný jazyk prohlížeče}.zip** bude určeno jako výchozí.
 5. Uvidíte [uživatelskou dokumentaci][userdoc] přímo v HelpViewer, podobně jako teď vidíte tento web. 
 
