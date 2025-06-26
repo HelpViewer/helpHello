@@ -1,25 +1,34 @@
 # &#9881;&#65039;Features
 
-- &#128230; No installation required - just unzip and run locally
+## 📚 HelpViewer
+
+- 📦 No installation required - just unzip and run locally
+- &#129702; Lightweight - under 1 MiB, 12 files + 2 subfolders (most part of solution compressed)
+- ⚖ MIT licensed
+
+## 🟢 Works out of the box with a single Markdown file ...
+
 - &#128187; Multiplatform - works on all major operating systems via web browsers
 - &#128244; Ready to work in offline mode without any backend or local server (requires disabling CORS in web browser)
 - 🧭 Simple user interface
 - &#128241; Responsive (desktop and other devices supported)
-- &#8596; Seamless full-screen expansion of topic content
-- &#128194; Hierarchical view of topics (collapsible topic tree)
-- &#x1F4C7; Linking glossary terms to relevant topics and files
-- &#x1F50E; Full-text search dictionary for chapter contents
-- &#9197; Integrated topic navigation buttons
+- 🔲 Seamless full-screen expansion of topic content
 - &#128278; Bookmarks for chapters supported
 - &#127912; Four native color schemes: color (default), greyscale, white on black, and black on white
 - &#9855; Accessibility rules WCAG 2.1 implemented (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - &#x1F4C4; Print friendly version (prefers greyscale)
 - &#128172; Tooltips in English, Czech (other languages planned)
-- &#129702; Lightweight - under 1 MiB, 11 files + 1 subfolder (most part of solution compressed)
-- &#9878; MIT licensed
 
-## &#128452;&#65039; Deployment to a server is not required, if you choose to do so ...
+## 🚀 When help project is defined ...
 
-- &#127760; Progressive Web Application (PWA), installable directly to your device for quick access.
+- 📂 Hierarchical view of topics (collapsible topic tree)
+- 📇 Linking glossary terms to relevant topics and files
+- 🔎 Full-text search dictionary for chapter contents
+- ⏭ Integrated topic navigation buttons
+- 🌐 Easily switch between different language versions
+
+## 🗄️ Additional features when deployed on a server ...
+
+- 🌐 Progressive Web Application (PWA), installable directly to your device for quick access.
 
 [waverep]: https://wave.webaim.org/report#/https://helpviewer.github.io "WAVE WebAim report"
