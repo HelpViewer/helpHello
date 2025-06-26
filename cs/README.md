@@ -12,14 +12,7 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 5. Uvidíte [uživatelskou dokumentaci][userdoc] přímo v HelpViewer, podobně jako teď vidíte tento web. 
 
 <script>
-  async function insertDownloadLink() {
-    const fname = 'package.zip';
-    const path = await getLatestReleaseBundleUri(null, fname);
-    const parentO = document.getElementById('linkhereI');
-    parentO.innerHTML = `<a href="${path}" alt="${fname}" title= "${path}">${fname}</a>`;
-  }
-
-  insertDownloadLink();
+  insertDownloadLink('linkhereI');
 </script>
 
 ## Použité produkty třetích stran

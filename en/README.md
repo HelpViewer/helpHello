@@ -12,14 +12,7 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
 5. You will see e.g. the [user documentation][userdoc] directly in HelpViewer, just like you are seeing this web page. 
 
 <script>
-  async function insertDownloadLink() {
-    const fname = 'package.zip';
-    const path = await getLatestReleaseBundleUri(null, fname);
-    const parentO = document.getElementById('linkhereI');
-    parentO.innerHTML = `<a href="${path}" alt="${fname}" title= "${path}">${fname}</a>`;
-  }
-
-  insertDownloadLink();
+  insertDownloadLink('linkhereI');
 </script>
 
 ## Used 3rd party products
