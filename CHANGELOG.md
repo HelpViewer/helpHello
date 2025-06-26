@@ -1,5 +1,14 @@
 # Changelog
 
+## 20250626
+- CZ, EN : features divided to 3 another groups - HelpViewer, Single MD file, help project provided features
+- CZ, EN : ideas.md alias name for dictionaries
+- CZ, EN : work modes mentioned
+- CZ, EN : work modes : local single markdown file viewer another examples
+- CZ, EN : Tree : User group link added
+- CZ, EN : starting with / for reading a directory
+- CZ : Correction of non translated hint text
+
 ## 20250621
 - CZ, EN : Mentioned possible usage, applications and ideas
 - CZ, EN : Mentioned Accessibility stats in features
