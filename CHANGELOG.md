@@ -1,5 +1,9 @@
 # Changelog
 
+## 20250628
+- EN, CZ : Authoring Guide link added to tree
+- EN, CZ : Link to latest version updated to use of embedded function
+
 ## 20250626
 - CZ, EN : features divided to 3 another groups - HelpViewer, Single MD file, help project provided features
 - CZ, EN : ideas.md alias name for dictionaries
