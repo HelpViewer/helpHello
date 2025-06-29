@@ -17,9 +17,9 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 
 ## Použité produkty třetích stran
 
-- [JSZip library][JSZIP]
-- [Marked][Marked]
-- [Mermaid][Mermaid]
+- [JSZip library][JSZIP] (používáno podle MIT)
+- [Marked][Marked] (používáno podle MIT)
+- [Mermaid][Mermaid] (používáno podle MIT)
 
 [JSZIP]: http://jszip.org/ "JSZip - práce se ZIP soubory"
 [Marked]: https://marked.js.org/ "Marked - vypisování a formátování md souborů do HTML formátu"

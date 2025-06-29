@@ -17,9 +17,9 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
 
 ## Used 3rd party products
 
-- [JSZip library][JSZIP]
-- [Marked][Marked]
-- [Mermaid][Mermaid]
+- [JSZip library][JSZIP] (under MIT)
+- [Marked][Marked] (under MIT)
+- [Mermaid][Mermaid] (under MIT)
 
 [JSZIP]: http://jszip.org/ "JSZip JavaScript library - ZIP files manipulation"
 [Marked]: https://marked.js.org/ "Marked JavaScript library - md files to HTML renderer"
