@@ -1,5 +1,9 @@
 # Changelog
 
+## 20250630
+- EN, CZ : Tree items : Added VIew repository, updated link to Authoring Gude help
+- EN, CZ : Explicitly mentioned MIT licenses
+
 ## 20250628
 - EN, CZ : Authoring Guide link added to tree
 - EN, CZ : Link to latest version updated to use of embedded function
