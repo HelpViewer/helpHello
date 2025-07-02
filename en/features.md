@@ -26,6 +26,7 @@
 - 🔎 Full-text search dictionary for chapter contents
 - ⏭ Integrated topic navigation buttons
 - 🌐 Easily switch between different language versions
+- 🕘 Easily switch help file version (Internet connection required)
 
 ## 🗄️ Additional features when deployed on a server ...
 

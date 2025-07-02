@@ -26,6 +26,7 @@
 - 🔎 Slovník pro fulltextové vyhledávání obsahu kapitol
 - ⏭ Integrovaná tlačítka pro základní navigaci v nápovědě
 - 🌐 Snadné přepnutí jazykové verze nápovědy
+- 🕘 Přepínání mezi verzemi nápovědy (je potřeba být připojen k Internetu)
 
 ## 🗄️ Nasazením na server navíc ...
 
