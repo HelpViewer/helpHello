@@ -30,6 +30,8 @@
 
 ## 🗄️ Additional features when deployed on a server ...
 
-- 🌐 Progressive Web Application (PWA), installable directly to your device for quick access.
+- 🌐 Progressive Web Application (PWA), installable directly to your device for quick access
+- ✅ For help files hosted on the same server as HelpViewer, CORS is no problem
+- 🟡 For external resources, it depends on the correct CORS header settings on the server side
 
 [waverep]: https://wave.webaim.org/report#/https://helpviewer.github.io "WAVE WebAim report"

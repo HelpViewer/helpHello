@@ -31,5 +31,7 @@
 ## 🗄️ Nasazením na server navíc ...
 
 - 🌐 Progresivní webová aplikace (PWA) instalovatelná do zařízení jako odkaz
+- ✅ Pro nápovědy hostované na stejném serveru jako HelpViewer je CORS bez problémů
+- 🟡 U externích zdrojů nápověd záleží na správném nastavení CORS hlaviček na straně serveru
 
 [waverep]: https://wave.webaim.org/report#/https://helpviewer.github.io "WAVE WebAim zpráva"
