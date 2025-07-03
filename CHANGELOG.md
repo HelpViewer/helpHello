@@ -1,9 +1,9 @@
 # Changelog
 
 ## 20250703
-EN,CZ : Version switching mentioned
-EN,CZ : Authors guide link is changed for working with local file copy (uncovered problems with CORS not disabled has interfered to help file loading, JS still works with user local computer settings)
-EN,CZ : CORS state mentioned in bigger detail
+- EN,CZ : Version switching mentioned
+- EN,CZ : Authors guide link is changed for working with local file copy (uncovered problems with CORS not disabled has interfered to help file loading, JS still works with user local computer settings)
+- EN,CZ : CORS state mentioned in bigger detail
 
 ## 20250630
 - EN, CZ : Tree items : Added VIew repository, updated link to Authoring Gude help
