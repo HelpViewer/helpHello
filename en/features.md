@@ -9,7 +9,8 @@
 ## 🟢 Works out of the box with a single Markdown file ...
 
 - &#128187; Multiplatform - works on all major operating systems via web browsers
-- &#128244; Ready to work in offline mode without any backend or local server (requires disabling CORS in web browser)
+- 📴 Ready to work in offline mode without any backend or local server
+  - 🟡 A browser with CORS policies disabled is recommended. Otherwise, functionality is partially limited and you must manually select the data file and help file at startup.
 - 🧭 Simple user interface
 - &#128241; Responsive (desktop and other devices supported)
 - 🔲 Seamless full-screen expansion of topic content
@@ -25,6 +26,8 @@
 - 📇 Linking glossary terms to relevant topics and files
 - 🔎 Full-text search dictionary for chapter contents
 - ⏭ Integrated topic navigation buttons
+
+### 🛠️ The browser runs with CORS policies disabled ...
 - 🌐 Easily switch between different language versions
 - 🕘 Easily switch help file version (Internet connection required)
 

@@ -5,7 +5,7 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
 ## How it works
 
 1. Download the deployment package from <span id="linkhereI"></span> and unzip it.
-2. Start your browser with [CORS restrictions][bypassCORS] disabled, or you will only see a blank page.
+2. For correct display, launch the browser without [CORS restrictions][bypassCORS]. Otherwise, you will see a page with message and have to manually select help and data files.
 3. Open the **index.html** file in your browser.
 4. Set the URL parameter **?d=X**, where **X** is the path to your ZIP file or you can define path ending with **/** if you want to read a directory.  
    If you skip this step, **./hlp/Help-{current language}.zip** will be used by default.

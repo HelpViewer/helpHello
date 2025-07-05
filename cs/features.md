@@ -9,7 +9,8 @@
 ## 🟢 Stačí jediný Markdown soubor i bez projektu nápovědy ...
 
 - &#128187; Multiplatformní - pracuje na všech operačních systémech přes webový prohlížeč
-- &#128244; Může fungovat v offline režimu bez backendu nebo lokálního serveru (potřebuje běžet v prohlížeči s vypnutými CORS politikami)
+- 📴 Může fungovat v offline režimu bez backendu nebo lokálního serveru
+  - 🟡 Doporučený je prohlížeč s vypnutými CORS politikami. Jinak je funkčnost částečně omezená a při spuštění je nutné ručně vybrat datový soubor a soubor nápovědy.
 - 🧭 Intuitivní uživatelské rozhraní
 - &#128241; Responzivní web (podporuje desktop i mobilní zařízení)
 - 🔲 Snadný přechod do full screen režimu pro zvětšení plochy prohlížené kapitoly
@@ -25,6 +26,8 @@
 - 📇 Propojení pojmů s příslušnými kapitolami a soubory
 - 🔎 Slovník pro fulltextové vyhledávání obsahu kapitol
 - ⏭ Integrovaná tlačítka pro základní navigaci v nápovědě
+
+### 🛠️ Prohlížeč běží s vypnutými CORS politikami ...
 - 🌐 Snadné přepnutí jazykové verze nápovědy
 - 🕘 Přepínání mezi verzemi nápovědy (je potřeba být připojen k Internetu)
 
