@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250705
+- EN,CZ : CORS description updated to state after last changes
+
 ## 20250703
 - EN,CZ : Version switching mentioned
 - EN,CZ : Authors guide link is changed for working with local file copy (uncovered problems with CORS not disabled has interfered to help file loading, JS still works with user local computer settings)
