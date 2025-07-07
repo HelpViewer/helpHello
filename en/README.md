@@ -20,9 +20,11 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
 - [JSZip library][JSZIP] (under MIT)
 - [Marked][Marked] (under MIT)
 - [Mermaid][Mermaid] (under MIT)
+- [Prism][Prism] (under MIT)
 
 [JSZIP]: http://jszip.org/ "JSZip JavaScript library - ZIP files manipulation"
 [Marked]: https://marked.js.org/ "Marked JavaScript library - md files to HTML renderer"
 [Mermaid]: https://mermaid.js.org/ "Mermaid library - renderer for diagrams defined by specific textual definitions"
 [bypassCORS]: corsPolicy.md "Browser possibly blocking local file access (file://) due to CORS policy restrictions"
 [userdoc]: ?d=hlp-user/Help-__.zip "User quick guide"
+[Prism]: https://prismjs.com/ "Prism - syntax highlighting"

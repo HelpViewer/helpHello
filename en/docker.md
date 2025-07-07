@@ -3,7 +3,7 @@
 ## Download
 You need to download image from [GHCR][target] by one of these commands:
 
-```
+```bash
 docker pull ghcr.io/helpviewer/helpviewer:latest
 podman pull ghcr.io/helpviewer/helpviewer:latest
 ```
@@ -16,14 +16,14 @@ Next chapters will continue with Podman.
 - Web service: (busybox) httpd
 
 ## Quick run
-```
+```bash
 podman run -p 8000:80 helpviewer
 ```
 
 - You will see new container data from browser on localhost:8000.
 
 ## Run with injected help files
-```
+```bash
 podman run -v ./my/help/files:/www/hlp -p 8000:80 helpviewer
 ```
 

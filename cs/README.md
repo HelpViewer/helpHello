@@ -20,9 +20,11 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 - [JSZip library][JSZIP] (používáno podle MIT)
 - [Marked][Marked] (používáno podle MIT)
 - [Mermaid][Mermaid] (používáno podle MIT)
+- [Prism][Prism] (používáno podle MIT)
 
 [JSZIP]: http://jszip.org/ "JSZip - práce se ZIP soubory"
 [Marked]: https://marked.js.org/ "Marked - vypisování a formátování md souborů do HTML formátu"
 [Mermaid]: https://mermaid.js.org/ "Mermaid - vykresluje grafy a schémata podle speciálních textových definic"
 [bypassCORS]: corsPolicy.md "Prohlížeč může blokovat přístup k místním souborům (file://) kvůli CORS politikám"
 [userdoc]: ?d=hlp-user/Help-__.zip "Rychlá příručka pro uživatele"
+[Prism]: https://prismjs.com/ "Prism - zvýraznění syntaxe výpisů kódu"

@@ -3,7 +3,7 @@
 ## Stažení
 Stáhněte obraz z [GHCR][target] jedním z příkazů:
 
-```
+```bash
 docker pull ghcr.io/helpviewer/helpviewer:latest
 podman pull ghcr.io/helpviewer/helpviewer:latest
 ```
@@ -16,14 +16,14 @@ Další oddíly pokračují s Podman.
 - Web server: (busybox) httpd
 
 ## Rychlé spuštění
-```
+```bash
 podman run -p 8000:80 helpviewer
 ```
 
 - Ke kontejneru přistoupíte z prohlížeče přes localhost:8000.
 
 ## Spuštění s vlastními soubory nápovědy
-```
+```bash
 podman run -v ./my/help/files:/www/hlp -p 8000:80 helpviewer
 ```
 
