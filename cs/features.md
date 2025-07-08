@@ -3,7 +3,7 @@
 ## 📚 HelpViewer
 
 - 📦 Není nutná žádná instalace - jen rozzipujte a spusťte místní soubor (klidně i bez Internetu)
-- &#129702; Nízká velikost – pod 1 MB, 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
+- &#129702; Nízká velikost – pod 1,2 MB, 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
 - ⚖ Licence: MIT
 
 ## 🟢 Stačí jediný Markdown soubor i bez projektu nápovědy ...

@@ -3,7 +3,7 @@
 ## 📚 HelpViewer
 
 - 📦 No installation required - just unzip and run locally
-- &#129702; Lightweight - under 1 MiB, 12 files + 2 subfolders (most part of solution compressed)
+- &#129702; Lightweight - under 1.2 MiB, 12 files + 2 subfolders (most part of solution compressed)
 - ⚖ MIT licensed
 
 ## 🟢 Works out of the box with a single Markdown file ...
