@@ -5,7 +5,7 @@ trouble.md|Troubleshooting
 docker.md|Container image instructions
 https://github.com/HelpViewer/HelpViewer|GitHub repository
 https://github.com/HelpViewer/HelpViewer/pkgs/container/helpviewer|Docker/Podman image
-README.md#how-it-works|Starting application
-trouble.md#only-a-blank-page-is-displayed|Blank page solution
+README.md#h-2-0|Starting application
+trouble.md#h-2-0|Blank page solution
 ideas.md|Possible implementation
 workmode.md|Working modes
