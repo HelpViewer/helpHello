@@ -17,7 +17,7 @@
 - &#128278; Podpora záložek pro podsekce v kapitole
 - &#127912; 4 vestavěné barevné režimy: barva (výchozí), stupně šedi, bílá a černá, černá a bílá
 - &#9855; Zohlednění přístupnosti – WCAG 2.1 (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
-- &#x1F4C4; Verze vhodná pro tisk (upřednostňuje stupně šedi)
+- 🖨️ Verze vhodná pro tisk (upřednostňuje stupně šedi)
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
 
 ## 🚀 Když je definován projekt nápovědy ...

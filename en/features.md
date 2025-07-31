@@ -17,7 +17,7 @@
 - &#128278; Bookmarks for chapters supported
 - &#127912; Four native color schemes: color (default), greyscale, white on black, and black on white
 - &#9855; Accessibility rules WCAG 2.1 implemented (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
-- &#x1F4C4; Print friendly version (prefers greyscale)
+- 🖨️ Print friendly version (prefers greyscale)
 - &#128172; Tooltips in English, Czech (other languages planned)
 
 ## 🚀 When help project is defined ...
