@@ -18,6 +18,7 @@
 - &#127912; 4 vestavěné barevné režimy: barva (výchozí), stupně šedi, bílá a černá, černá a bílá
 - &#9855; Zohlednění přístupnosti – WCAG 2.1 (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - 🖨️ Verze vhodná pro tisk (upřednostňuje stupně šedi)
+- 📚 Zobrazit všechny kapitoly jako jeden dokument
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
 
 ## 🚀 Když je definován projekt nápovědy ...
