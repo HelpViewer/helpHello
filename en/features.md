@@ -3,7 +3,8 @@
 ## 📚 HelpViewer
 
 - 📦 No installation required - just unzip and run locally
-- &#129702; Lightweight - under 1.2 MiB, 12 files + 2 subfolders (most part of solution compressed)
+- 💾 Lightweight - under 1.2 MiB, 12 files + 2 subfolders (most part of solution compressed)
+- 🧩 Robust, easy-to-use plugin system and extensible architecture
 - ⚖ MIT licensed
 
 ## 🟢 Works out of the box with a single Markdown file ...
@@ -20,6 +21,7 @@
 - 🖨️ Print friendly version (prefers greyscale)
 - 📚 Show all chapters as book
 - &#128172; Tooltips in English, Czech (other languages planned)
+- 🌐 Easily switch between different language versions of the viewer interface
 
 ## 🚀 When help project is defined ...
 
@@ -27,10 +29,8 @@
 - 📇 Linking glossary terms to relevant topics and files
 - 🔎 Full-text search dictionary for chapter contents
 - ⏭ Integrated topic navigation buttons
-
-### 🛠️ The browser runs with CORS policies disabled ...
-- 🌐 Easily switch between different language versions
 - 🕘 Easily switch help file version (Internet connection required)
+- 🌐 Easily switch between different language versions of the help file
 
 ## 🗄️ Additional features when deployed on a server ...
 

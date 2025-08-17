@@ -3,7 +3,8 @@
 ## 📚 HelpViewer
 
 - 📦 Není nutná žádná instalace - jen rozzipujte a spusťte místní soubor (klidně i bez Internetu)
-- &#129702; Nízká velikost – pod 1,2 MB, 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
+- 💾 Nízká velikost – pod 1,2 MB, 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
+- 🧩 Snadno použitelný systém pluginů a rozšiřitelná architektura
 - ⚖ Licence: MIT
 
 ## 🟢 Stačí jediný Markdown soubor i bez projektu nápovědy ...
@@ -20,6 +21,7 @@
 - 🖨️ Verze vhodná pro tisk (upřednostňuje stupně šedi)
 - 📚 Zobrazit všechny kapitoly jako jeden dokument
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
+- 🌐 Snadné přepnutí jazykové verze prohlížeče
 
 ## 🚀 Když je definován projekt nápovědy ...
 
@@ -27,10 +29,8 @@
 - 📇 Propojení pojmů s příslušnými kapitolami a soubory
 - 🔎 Slovník pro fulltextové vyhledávání obsahu kapitol
 - ⏭ Integrovaná tlačítka pro základní navigaci v nápovědě
-
-### 🛠️ Prohlížeč běží s vypnutými CORS politikami ...
-- 🌐 Snadné přepnutí jazykové verze nápovědy
 - 🕘 Přepínání mezi verzemi nápovědy (je potřeba být připojen k Internetu)
+- 🌐 Snadné přepnutí jazykové verze nápovědy
 
 ## 🗄️ Nasazením na server navíc ...
 
