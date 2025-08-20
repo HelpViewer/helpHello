@@ -1,5 +1,8 @@
 # Changelog
 
+## 20250720
+- EN,CZ : updated features list to current state
+
 ## 20250711
 - EN, CZ : features list updated to current state (package size has grown over 1 MiB after Prism integration)
 - EN, CZ : Bookmark paths updated to new logic
