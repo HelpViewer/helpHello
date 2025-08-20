@@ -1,6 +1,6 @@
 # Changelog
 
-## 20250720
+## 20250820
 - EN,CZ : updated features list to current state
 
 ## 20250711
