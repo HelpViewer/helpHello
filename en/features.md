@@ -16,18 +16,19 @@
 - &#128241; Responsive (desktop and other devices supported)
 - 🔲 Seamless full-screen expansion of topic content
 - &#128278; Bookmarks for chapters supported
+- 🔎 Full-text search dictionary for chapter contents
 - &#127912; Four native color schemes: color (default), greyscale, white on black, and black on white
 - &#9855; Accessibility rules WCAG 2.1 implemented (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - 🖨️ Print friendly version (prefers greyscale)
 - 📚 Show all chapters as book
 - &#128172; Tooltips in English, Czech (other languages planned)
 - 🌐 Easily switch between different language versions of the viewer interface
+- 📽 Presentation mode with chapter and slide navigation using arrow keys
 
 ## 🚀 When help project is defined ...
 
 - 📂 Hierarchical view of topics (collapsible topic tree)
 - 📇 Linking glossary terms to relevant topics and files
-- 🔎 Full-text search dictionary for chapter contents
 - ⏭ Integrated topic navigation buttons
 - 🕘 Easily switch help file version (Internet connection required)
 - 🌐 Easily switch between different language versions of the help file

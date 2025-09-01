@@ -16,18 +16,19 @@
 - &#128241; Responzivní web (podporuje desktop i mobilní zařízení)
 - 🔲 Snadný přechod do full screen režimu pro zvětšení plochy prohlížené kapitoly
 - &#128278; Podpora záložek pro podsekce v kapitole
+- 🔎 Slovník pro fulltextové vyhledávání obsahu kapitol
 - &#127912; 4 vestavěné barevné režimy: barva (výchozí), stupně šedi, bílá a černá, černá a bílá
 - &#9855; Zohlednění přístupnosti – WCAG 2.1 (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - 🖨️ Verze vhodná pro tisk (upřednostňuje stupně šedi)
 - 📚 Zobrazit všechny kapitoly jako jeden dokument
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
 - 🌐 Snadné přepnutí jazykové verze prohlížeče
+- 📽 Prezentační režim s navigací kapitol a snímků pomocí kláves šipek
 
 ## 🚀 Když je definován projekt nápovědy ...
 
 - 📂 Hierarchický strom témat s možností otevírání a uzavírání složek
 - 📇 Propojení pojmů s příslušnými kapitolami a soubory
-- 🔎 Slovník pro fulltextové vyhledávání obsahu kapitol
 - ⏭ Integrovaná tlačítka pro základní navigaci v nápovědě
 - 🕘 Přepínání mezi verzemi nápovědy (je potřeba být připojen k Internetu)
 - 🌐 Snadné přepnutí jazykové verze nápovědy
