@@ -17,7 +17,7 @@
 - 🔲 Snadný přechod do full screen režimu pro zvětšení plochy prohlížené kapitoly
 - &#128278; Podpora záložek pro podsekce v kapitole
 - 🔎 Slovník pro fulltextové vyhledávání obsahu kapitol
-- &#127912; 4 vestavěné barevné režimy: barva (výchozí), stupně šedi, bílá a černá, černá a bílá
+- &#127912; 5 vestavěných barevných režimů: barva (výchozí), stupně šedi, bílá a černá, černá a bílá, sepie
 - &#9855; Zohlednění přístupnosti – WCAG 2.1 (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - 🖨️ Verze vhodná pro tisk (upřednostňuje stupně šedi)
 - 📚 Zobrazit všechny kapitoly jako jeden dokument
