@@ -1,5 +1,9 @@
 # Changelog
 
+## 20250915
+- EN,CZ : tree : added link to developer documentation
+- EN,CZ : updated features list : presentation mode, fulltext for standalone file mentioned
+
 ## 20250820
 - EN,CZ : updated features list to current state
 
