@@ -1,5 +1,10 @@
 # Changelog
 
+## 20250921
+- Sepia color theme mentioned
+- Customize package download added
+- Watermark on TOC panel
+
 ## 20250915
 - EN,CZ : tree : added link to developer documentation
 - EN,CZ : updated features list : presentation mode, fulltext for standalone file mentioned
