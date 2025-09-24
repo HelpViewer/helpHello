@@ -1,0 +1,12 @@
+.splash {
+  gap: 3rem;
+  font-size: calc(1em * 1.5);
+  background: radial-gradient(circle, var(--c-contentPaneColor) 10%, var(--c-backgroundHead) 100%);
+}
+
+.splash h2 {
+  text-align: center;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: manual;
+}
