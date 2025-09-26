@@ -5,6 +5,7 @@
 - 📦 Není nutná žádná instalace - jen rozzipujte a spusťte místní soubor (klidně i bez Internetu)
 - 💾 Nízká velikost – pod 1,2 MB, 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
 - 🧩 Snadno použitelný systém pluginů a rozšiřitelná architektura
+- 📥 Snadno nastavitelné hlavní funkce v přehledném stromovém zobrazení
 - ⚖ Licence: MIT
 
 ## 🟢 Stačí jediný Markdown soubor i bez projektu nápovědy ...
