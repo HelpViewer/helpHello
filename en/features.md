@@ -25,6 +25,7 @@
 - &#128172; Tooltips in English, Czech (other languages planned)
 - 🌐 Easily switch between different language versions of the viewer interface
 - 📽 Presentation mode with chapter and slide navigation using arrow keys
+- ✏️ Personal notes on chapter paragraphs
 
 ## 🚀 When help project is defined ...
 

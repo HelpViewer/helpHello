@@ -25,6 +25,7 @@
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
 - 🌐 Snadné přepnutí jazykové verze prohlížeče
 - 📽 Prezentační režim s navigací kapitol a snímků pomocí kláves šipek
+- ✏️ Osobní poznámky u odstavců kapitol
 
 ## 🚀 Když je definován projekt nápovědy ...
 
