@@ -1,5 +1,9 @@
 # Changelog
 
+## 20250929
+- Splash screen added
+- Features : Custom package, Notes
+
 ## 20250921
 - Sepia color theme mentioned
 - Customize package download added
