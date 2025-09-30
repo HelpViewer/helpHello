@@ -1,4 +1,4 @@
-# _![HelpViewer](media/HV.png)
+# _![Logo](media/HV.png)
 
 # HelpViewer
 
