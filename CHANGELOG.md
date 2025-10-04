@@ -1,5 +1,8 @@
 # Changelog
 
+## 20251004
+- Splash screen alt text updated
+
 ## 20250929
 - Splash screen added
 - Features : Custom package, Notes
