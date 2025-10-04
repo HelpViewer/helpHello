@@ -19,6 +19,7 @@
 - &#128278; Bookmarks for chapters supported
 - 🔎 Full-text search dictionary for chapter contents
 - &#127912; Five native color schemes: color (default), greyscale, white on black, and black on white, sepia
+- 🌈 Choose the main style from 8 possible styles
 - &#9855; Accessibility rules WCAG 2.1 implemented (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - 🖨️ Print friendly version (prefers greyscale)
 - 📚 Show all chapters as book
