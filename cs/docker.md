@@ -24,7 +24,7 @@ podman run -p 8000:80 helpviewer
 
 ## Spuštění s vlastními soubory nápovědy
 ```bash
-podman run -v ./my/help/files:/www/hlp -p 8000:80 helpviewer
+podman run -v "./my/help/files:/www/hlp:ro" -p 8000:80 helpviewer
 ```
 
 - Ke kontejneru přistoupíte z prohlížeče přes localhost:8000.

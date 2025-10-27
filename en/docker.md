@@ -24,7 +24,7 @@ podman run -p 8000:80 helpviewer
 
 ## Run with injected help files
 ```bash
-podman run -v ./my/help/files:/www/hlp -p 8000:80 helpviewer
+podman run -v "./my/help/files:/www/hlp:ro" -p 8000:80 helpviewer
 ```
 
 - You will see new container data from browser on localhost:8000.
