@@ -12,7 +12,7 @@ Další oddíly pokračují s Podman.
 
 ## Popis v bodech
 
-- Základní obraz : scratch
+- Základní obraz : scratch (musl, busybox převzat z alpine)
 - Web server: (busybox) httpd
 
 ## Rychlé spuštění

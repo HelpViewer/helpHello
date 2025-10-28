@@ -12,7 +12,7 @@ Next chapters will continue with Podman.
 
 ## Description
 
-- Base : scratch
+- Base : scratch (musl, busybox taken from alpine)
 - Web service: (busybox) httpd
 
 ## Quick run
