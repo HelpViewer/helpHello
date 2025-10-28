@@ -12,7 +12,7 @@ Další oddíly pokračují s Podman.
 
 ## Popis v bodech
 
-- Základní obraz : Alpine Linux
+- Základní obraz : scratch
 - Web server: (busybox) httpd
 
 ## Rychlé spuštění

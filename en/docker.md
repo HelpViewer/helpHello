@@ -12,7 +12,7 @@ Next chapters will continue with Podman.
 
 ## Description
 
-- Base : Alpine Linux
+- Base : scratch
 - Web service: (busybox) httpd
 
 ## Quick run
