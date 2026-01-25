@@ -1,5 +1,9 @@
 # Changelog
 
+## 20260125
+- Features : application styles selector, export function and formats
+- Docker/Podman : base image updated, run command updated for ro (read only) flag on volume path 
+
 ## 20251004
 - Splash screen alt text updated
 
