@@ -23,7 +23,7 @@
 - &#9855; Accessibility rules WCAG 2.1 implemented (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - 🖨️ Print friendly version (prefers greyscale)
 - 📚 Show all chapters as book
-- 📥 Export the current chapter or all chapters to HTML, Markdown, or LaTeX format
+- 📥 Export the current chapter or all chapters to HTML, Markdown, LaTeX, ePub format
 - &#128172; Tooltips in English, Czech (other languages planned)
 - 🌐 Easily switch between different language versions of the viewer interface
 - 📽 Presentation mode with chapter and slide navigation using arrow keys

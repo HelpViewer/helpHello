@@ -23,7 +23,7 @@
 - &#9855; Zohlednění přístupnosti – WCAG 2.1 (accessibilitychecker.org: 89 %, Lighthouse: 96%, [Web Aim][waverep])
 - 🖨️ Verze vhodná pro tisk (upřednostňuje stupně šedi)
 - 📚 Zobrazit všechny kapitoly jako jeden dokument
-- 📥 Export otevřené kapitoly nebo všech kapitol do formátu HTML, Markdown nebo LaTeX
+- 📥 Export otevřené kapitoly nebo všech kapitol do formátu HTML, Markdown, LaTeX, ePub
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
 - 🌐 Snadné přepnutí jazykové verze prohlížeče
 - 📽 Prezentační režim s navigací kapitol a snímků pomocí kláves šipek
