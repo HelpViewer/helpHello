@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260131
+- Features : ePub format added
+
 ## 20260125
 - Features : application styles selector, export function and formats
 - Docker/Podman : base image updated, run command updated for ro (read only) flag on volume path 
