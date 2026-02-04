@@ -24,6 +24,7 @@
 - 🖨️ Print friendly version (prefers greyscale)
 - 📚 Show all chapters as book
 - 📥 Export the current chapter or all chapters to HTML, Markdown, LaTeX, ePub format
+- 📥 Export text to a static website without JavaScript or links to HelpViewer (the internal structure of CSS styles will remain the same)
 - &#128172; Tooltips in English, Czech (other languages planned)
 - 🌐 Easily switch between different language versions of the viewer interface
 - 📽 Presentation mode with chapter and slide navigation using arrow keys

@@ -24,6 +24,7 @@
 - 🖨️ Verze vhodná pro tisk (upřednostňuje stupně šedi)
 - 📚 Zobrazit všechny kapitoly jako jeden dokument
 - 📥 Export otevřené kapitoly nebo všech kapitol do formátu HTML, Markdown, LaTeX, ePub
+- 📥 Export textu do statického webu bez javascriptu nebo vazby na HelpViewer (zůstane shodná vnitřní struktura CSS stylů)
 - &#128172; Bublinová nápověda prostředí v češtině a angličtině (plánují se další jazyky)
 - 🌐 Snadné přepnutí jazykové verze prohlížeče
 - 📽 Prezentační režim s navigací kapitol a snímků pomocí kláves šipek
