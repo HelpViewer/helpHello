@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260205
+- Features : static HTML export mentioned
+
 ## 20260131
 - Features : ePub format added
 
