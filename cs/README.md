@@ -4,13 +4,14 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 
 ## Jak to funguje
 
-1. Stáhněte si balíček <span id="linkhereI"></span> a rozbalte jej.
-2. Pro správné zobrazení spusťte prohlížeč bez [CORS omezení][bypassCORS]. Jinak se zobrazí stránka se zprávou a budete muset ručně vybrat soubory s nápovědou a daty.  
+1. Zkuste si **HelpViewer** na [svém repozitáři][yourRepo].
+2. Stáhněte si balíček <span id="linkhereI"></span> a rozbalte jej.
+3. Pro správné zobrazení spusťte prohlížeč bez [CORS omezení][bypassCORS]. Jinak se zobrazí stránka se zprávou a budete muset ručně vybrat soubory s nápovědou a daty.  
 Další možností, pokud nechcete zasahovat do CORS, je stažení lokálního HTTP serveru pro [Linux][SLinux] (Go/musl libc) nebo [Windows][SWindows], založení složky **www** v umístění serveru a rozbalení instalace **HelpViewer** do této složky a spuštění serveru localhost:8080 v prohlížeči.
-3. Otevřete **index.html** v prohlížeči.
-4. Nastavte URL parametr **?d=X**, kde **X** bude cesta k ZIP souboru s nápovědou nebo bude končit **/**, pokud má být čten obsah adresáře.  
+1. Otevřete **index.html** v prohlížeči.
+2. Nastavte URL parametr **?d=X**, kde **X** bude cesta k ZIP souboru s nápovědou nebo bude končit **/**, pokud má být čten obsah adresáře.  
    Pokud toto neuděláte, **./hlp/Help-{vybraný jazyk prohlížeče}.zip** bude určeno jako výchozí.
-5. Uvidíte [uživatelskou dokumentaci][userdoc] přímo v HelpViewer, podobně jako teď vidíte tento web. 
+3. Uvidíte [uživatelskou dokumentaci][userdoc] přímo v HelpViewer, podobně jako teď vidíte tento web. 
 
 <script>
   insertDownloadLink('linkhereI');
@@ -31,3 +32,4 @@ Další možností, pokud nechcete zasahovat do CORS, je stažení lokálního H
 [Prism]: https://prismjs.com/ "Prism - zvýraznění syntaxe výpisů kódu"
 [SLinux]: https://github.com/HelpViewer/MiniHTTPServer/releases/download/20260206/main "Místní server (Linux)"
 [SWindows]: https://github.com/HelpViewer/MiniHTTPServer/releases/download/20260206/main.exe  "Místní server (Windows)"
+[yourRepo]: :viewRepo.htm "👀 Zobraz repozitář"
