@@ -2,6 +2,7 @@
 
 ## 📚 HelpViewer
 
+- 🔒 Vaše data zůstávají u vás - aplikace běží kompletně v JavaScriptu ve vašem prohlížeči a žádné soubory se neodesílají na žádný server
 - 📦 Není nutná žádná instalace - jen rozzipujte a spusťte místní soubor (klidně i bez Internetu)
 - 💾 Nízká velikost – pod 1,2 MB, 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
 - 🧩 Snadno použitelný systém pluginů a rozšiřitelná architektura

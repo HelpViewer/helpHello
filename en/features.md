@@ -2,6 +2,7 @@
 
 ## 📚 HelpViewer
 
+- 🔒 Your data stays with you - the application runs entirely in JavaScript in your browser, and no files are sent to any server.
 - 📦 No installation required - just unzip and run locally
 - 💾 Lightweight - under 1.2 MiB, 12 files + 2 subfolders (most part of solution compressed)
 - 🧩 Robust, easy-to-use plugin system and extensible architecture
