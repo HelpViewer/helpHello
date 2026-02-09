@@ -1,5 +1,10 @@
 # Changelog
 
+## 20260209
+- HTTP server mentioned as an alternative to CORS
+- README : link to try your repo as the 1st step of guide
+- Features : application local work mode mentioned, RTF 1.5 (Word 97) export format
+
 ## 20260205
 - Features : static HTML export mentioned
 
