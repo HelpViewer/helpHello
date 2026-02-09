@@ -8,10 +8,10 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 2. Stáhněte si balíček <span id="linkhereI"></span> a rozbalte jej.
 3. Pro správné zobrazení spusťte prohlížeč bez [CORS omezení][bypassCORS]. Jinak se zobrazí stránka se zprávou a budete muset ručně vybrat soubory s nápovědou a daty.  
 Další možností, pokud nechcete zasahovat do CORS, je stažení lokálního HTTP serveru pro [Linux][SLinux] (Go/musl libc) nebo [Windows][SWindows], založení složky **www** v umístění serveru, rozbalení instalace **HelpViewer** do této složky a spuštění serveru localhost:8080 v prohlížeči.
-1. Otevřete **index.html** v prohlížeči.
-2. Nastavte URL parametr **?d=X**, kde **X** bude cesta k ZIP souboru s nápovědou nebo bude končit **/**, pokud má být čten obsah adresáře.  
+4. Otevřete **index.html** v prohlížeči.
+5. Nastavte URL parametr **?d=X**, kde **X** bude cesta k ZIP souboru s nápovědou nebo bude končit **/**, pokud má být čten obsah adresáře.  
    Pokud toto neuděláte, **./hlp/Help-{vybraný jazyk prohlížeče}.zip** bude určeno jako výchozí.
-3. Uvidíte [uživatelskou dokumentaci][userdoc] přímo v HelpViewer, podobně jako teď vidíte tento web. 
+6. Uvidíte [uživatelskou dokumentaci][userdoc] přímo v HelpViewer, podobně jako teď vidíte tento web. 
 
 <script>
   insertDownloadLink('linkhereI');
