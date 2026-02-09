@@ -25,7 +25,7 @@
 - 🖨️ Print friendly version (prefers greyscale)
 - 📚 Show all chapters as book
 - 📥 Export the current chapter or all chapters to HTML, Markdown, LaTeX, ePub format, 
-  - RTF (1.5 - Word 97, basic format with limitations: no support for images, complex formatting and colors, tables converted to indented text, limited support for Unicode and diacritics (ANSI))
+  - RTF (1.5 - Word 97+, basic format with limitations: no support for images, complex formatting and colors, tables converted to indented text, limited support for Unicode and diacritics (ANSI))
 - 📥 Export text to a static website without JavaScript or links to HelpViewer (the internal structure of CSS styles will remain the same)
 - &#128172; Tooltips in English, Czech (other languages planned)
 - 🌐 Easily switch between different language versions of the viewer interface
