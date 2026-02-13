@@ -7,7 +7,7 @@ is a modern, portable and fast tool for viewing Markdown and HTML documentation 
 1. Try **HelpViewer** on [your repository][yourRepo].
 2. Download the deployment package from <span id="linkhereI"></span> and unzip it.
 3. For correct display, launch the browser without [CORS restrictions][bypassCORS]. Otherwise, you will see a page with message and have to manually select help and data files.  
-Alternatively, if you don't want to interfere with CORS, is to download a local HTTP server for [Linux][SLinux] (Go/musl libc) or [Windows][SWindows], create a **www** folder in the server location, extract the **HelpViewer** installation into this folder, and start the server on localhost:8080 in your browser.
+Alternatively, if you don't want to interfere with CORS, is to download a local HTTP server for [Linux][SLinux] (static build under Go/musl libc) or [Windows][SWindows], create a **www** folder in the server location, extract the **HelpViewer** installation into this folder, and start the server on localhost:8080 in your browser.
 4. Open the **index.html** file in your browser.
 5. Set the URL parameter **?d=X**, where **X** is the path to your ZIP file or you can define path ending with **/** if you want to read a directory.  
    If you skip this step, **./hlp/Help-{current language}.zip** will be used by default.
