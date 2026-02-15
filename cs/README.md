@@ -30,4 +30,4 @@ Další možností, pokud nechcete zasahovat do CORS, je stažení lokálního H
 [SLinux]: https://github.com/HelpViewer/MiniHTTPServer/releases/download/20260206/main "Místní server (Linux)"
 [SWindows]: https://github.com/HelpViewer/MiniHTTPServer/releases/download/20260206/main.exe  "Místní server (Windows)"
 [yourRepo]: :viewRepo.htm "👀 Zobraz repozitář"
-[DOMPurify]: https://github.com/cure53/DOMPurify "DOMPurify - output protection against XSS (Apache License Version 2.0)"
+[DOMPurify]: https://github.com/cure53/DOMPurify "DOMPurify - ochrana výstupu proti XSS (Apache License Version 2.0)"
