@@ -16,9 +16,10 @@ Další možností, pokud nechcete zasahovat do CORS, je stažení lokálního H
 ## Použité produkty třetích stran
 
 - [JSZip library][JSZIP] (používáno podle MIT)
-- [Marked][Marked] (používáno podle MIT)
-- [Mermaid][Mermaid] (používáno podle MIT)
-- [Prism][Prism] (používáno podle MIT)
+- [Marked][Marked] (používáno podle MIT) (volitelné)
+- [Mermaid][Mermaid] (používáno podle MIT) (volitelné)
+- [Prism][Prism] (používáno podle MIT) (volitelné)
+- [DOMPurify][DOMPurify] (používáno podle Apache License Version 2.0) (volitelné)
 
 [JSZIP]: http://jszip.org/ "JSZip - práce se ZIP soubory"
 [Marked]: https://marked.js.org/ "Marked - vypisování a formátování md souborů do HTML formátu"
@@ -29,3 +30,4 @@ Další možností, pokud nechcete zasahovat do CORS, je stažení lokálního H
 [SLinux]: https://github.com/HelpViewer/MiniHTTPServer/releases/download/20260206/main "Místní server (Linux)"
 [SWindows]: https://github.com/HelpViewer/MiniHTTPServer/releases/download/20260206/main.exe  "Místní server (Windows)"
 [yourRepo]: :viewRepo.htm "👀 Zobraz repozitář"
+[DOMPurify]: https://github.com/cure53/DOMPurify "DOMPurify - output protection against XSS (Apache License Version 2.0)"

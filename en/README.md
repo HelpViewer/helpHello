@@ -16,9 +16,10 @@ Alternatively, if you don't want to interfere with CORS, is to download a local 
 ## Used 3rd party products
 
 - [JSZip library][JSZIP] (under MIT)
-- [Marked][Marked] (under MIT)
-- [Mermaid][Mermaid] (under MIT)
-- [Prism][Prism] (under MIT)
+- [Marked][Marked] (under MIT) (optional)
+- [Mermaid][Mermaid] (under MIT) (optional)
+- [Prism][Prism] (under MIT) (optional)
+- [DOMPurify][DOMPurify] (under Apache License Version 2.0) (optional)
 
 [JSZIP]: http://jszip.org/ "JSZip JavaScript library - ZIP files manipulation"
 [Marked]: https://marked.js.org/ "Marked JavaScript library - md files to HTML renderer"
@@ -29,3 +30,4 @@ Alternatively, if you don't want to interfere with CORS, is to download a local 
 [SLinux]: https://github.com/HelpViewer/MiniHTTPServer/releases/download/20260206/main "Local server (Linux)"
 [SWindows]: https://github.com/HelpViewer/MiniHTTPServer/releases/download/20260206/main.exe  "Local server (Windows)"
 [yourRepo]: :viewRepo.htm "👀 View your repository"
+[DOMPurify]: https://github.com/cure53/DOMPurify "DOMPurify - output protection against XSS (Apache License Version 2.0)"
