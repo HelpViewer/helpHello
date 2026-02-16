@@ -7,6 +7,7 @@
 - 💾 Nízká velikost – pod 1,2 MB, 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
 - 🧩 Snadno použitelný systém pluginů a rozšiřitelná architektura
 - 📥 Snadno nastavitelné hlavní funkce v přehledném stromovém zobrazení
+- 🛡️ Ochrana proti XSS útokům (integrace DOMPurify v jejím standardním nastavení; součást lze volitelně odebrat z instalace)
 - ⚖ Licence: MIT
 
 ## 🟢 Stačí jediný Markdown soubor i bez projektu nápovědy ...

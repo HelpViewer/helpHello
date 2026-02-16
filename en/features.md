@@ -7,6 +7,7 @@
 - 💾 Lightweight - under 1.2 MiB, 12 files + 2 subfolders (most part of solution compressed)
 - 🧩 Robust, easy-to-use plugin system and extensible architecture
 - 📥 Easily configurable main functions in a clear tree view
+- 🛡️ Protection against XSS attacks (integration of DOMPurify in its default settings; component can be optionally removed from installation)
 - ⚖ MIT licensed
 
 ## 🟢 Works out of the box with a single Markdown file ...
