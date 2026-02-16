@@ -1,5 +1,10 @@
 # Changelog
 
+## 20260216
+- README : DOMPurify mentioned
+- README : static build of server binary mentioned
+- README : package.zip hyperlink preparation refactor
+
 ## 20260209
 - HTTP server mentioned as an alternative to CORS
 - README : link to try your repo as the 1st step of guide
