@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260216-1
+- Features : XSS security (DOMPurify) mentioned
+
 ## 20260216
 - README : DOMPurify mentioned
 - README : static build of server binary mentioned
