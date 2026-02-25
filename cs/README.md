@@ -5,7 +5,7 @@ je moderní a rychlý nástroj pro prohlížení dokumentace Markdown a HTML př
 ## Jak to funguje
 
 1. Zkuste si **HelpViewer** na [svém repozitáři][yourRepo].
-2. Stáhněte si balíček [package.zip](https://github.com/HelpViewer/HelpViewer/releases/download/__VERSION__/package.zip "https://github.com/HelpViewer/HelpViewer/releases/download/__VERSION__/package.zip") a rozbalte jej.
+2. Stáhněte si balíček @LTOPVERSIONN@ a rozbalte jej.
 3. Pro správné zobrazení spusťte prohlížeč bez [CORS omezení][bypassCORS]. Jinak se zobrazí stránka se zprávou a budete muset ručně vybrat soubory s nápovědou a daty.  
 Další možností, pokud nechcete zasahovat do CORS, je stažení lokálního HTTP serveru pro [Linux][SLinux] (statické sestavení pod Go/musl libc) nebo [Windows][SWindows], založení složky **www** v umístění serveru, rozbalení instalace **HelpViewer** do této složky a spuštění serveru localhost:8080 v prohlížeči.
 4. Otevřete **index.html** v prohlížeči.
