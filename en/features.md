@@ -47,4 +47,9 @@
 - ✅ For help files hosted on the same server as HelpViewer, CORS is no problem
 - 🟡 For external resources, it depends on the correct CORS header settings on the server side
 
+## 🖥️ Support on the user side ...
+
+- ❔ Plugin for browsers with Chromium core, complementing the What's here? action (using configuration, you can easily [link][RPluginChromeHelpViewer] PWA/web with help)
+
+[RPluginChromeHelpViewer]: https://github.com/HelpViewer/PluginChromeHelpViewer "PluginChromeHelpViewer"
 [waverep]: https://wave.webaim.org/report#/https://helpviewer.github.io "WAVE WebAim report"

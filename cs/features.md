@@ -47,4 +47,9 @@
 - ✅ Pro nápovědy hostované na stejném serveru jako HelpViewer je CORS bez problémů
 - 🟡 U externích zdrojů nápověd záleží na správném nastavení CORS hlaviček na straně serveru
 
+## 🖥️ Podpora na straně uživatelů ...
+
+- ❔ Plugin pro prohlížece s jádrem Chromium doplňující akci Co je zde? (pomocí konfigurace lze snadno [propojit][RPluginChromeHelpViewer] PWA/web s nápovědou)
+
+[RPluginChromeHelpViewer]: https://github.com/HelpViewer/PluginChromeHelpViewer "PluginChromeHelpViewer"
 [waverep]: https://wave.webaim.org/report#/https://helpviewer.github.io "WAVE WebAim zpráva"
