@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260310
+- Features : Chrome plugin with What's here mentioned
+
 ## 20260225
 - Bugfix: Link to latest version updated to latest changes connected to DOMPurify and introduced text variables
 
