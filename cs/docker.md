@@ -17,18 +17,23 @@ Další oddíly pokračují s Podman.
 
 ## Rychlé spuštění
 ```bash
-podman run -p 8000:80 helpviewer
+podman run --name helpviewer1 -p 8000:80 helpviewer
 ```
 
 - Ke kontejneru přistoupíte z prohlížeče přes localhost:8000.
 
 ## Spuštění s vlastními soubory nápovědy
 ```bash
-podman run -v "./my/help/files:/www/hlp:ro" -p 8000:80 helpviewer
+podman run --name helpviewer1 -v "./my/help/files:/www/hlp:ro" -p 8000:80 helpviewer
 ```
 
 - Ke kontejneru přistoupíte z prohlížeče přes localhost:8000.
 - hlp/Help-{jazyk prostředí}.zip bude použit jako první soubor automaticky
 - Soubor bude načten z ./my/help/files/Help-{jazyk prostředí}.zip na disku fyzického serveru kde Podman běží
+
+## Spuštění s určením přídělu prostředků
+```bash
+podman run --name helpviewer1 -v "./my/help/files:/www/hlp:ro" -p 8000:80 --read-only --memory=192m --cpus=0.5 --restart=always helpviewer
+```
 
 [target]: https://github.com/HelpViewer/HelpViewer/pkgs/container/helpviewer "Container images"
