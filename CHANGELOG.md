@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260321
+- Docker : container naming, extended command for resource quotas
+
 ## 20260310
 - Features : Chrome plugin with What's here mentioned
 
