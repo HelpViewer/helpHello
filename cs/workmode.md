@@ -1,13 +1,13 @@
 # ◉ Režimy práce
 
 - Místně jako prohlížeč nápovědy:
-```
+```text
 .../index.html?d=adresář/
 .../index.html?d=../soubor-nápovedy.zip
 .../index.html?d=https://github.com/HelpViewer/helpUser/releases/download/20250615/Help-cs.zip
 ```
 - Místně jako prohlížeč jednotlivého markdown souboru:
-```
+```text
 .../index.html?d=cesta/k/adresáři/&p=soubor.md
 .../index.html?d=./&p=cesta/k/adresáři/soubor.md
 .../index.html?d=/&p=cesta/k/adresáři/soubor.md
