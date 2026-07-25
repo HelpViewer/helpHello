@@ -171,6 +171,7 @@ jobs:
           done
 
       - name: Publish release
+        if: steps.pub.outputs.exists == 'true'
         uses: eregon/publish-release@v1
         with:
           release_id: ${{ steps.crelease.outputs.id }}
