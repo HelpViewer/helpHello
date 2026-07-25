@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260725
+- Code examples format defined/changed according to latest pTRParsePrism logic changes
+
 ## 20260321
 - Docker : container naming, extended command for resource quotas
 
