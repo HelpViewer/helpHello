@@ -1,5 +1,8 @@
 # Changelog
 
+## 20260809
+- Features : Lightweight ... updated to latest space information (last growing in 3rd party components definitly overran one diskette capacity)
+
 ## 20260727
 - Code examples format defined/changed according to latest pTRParsePrism logic changes
 
