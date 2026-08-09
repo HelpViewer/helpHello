@@ -4,7 +4,7 @@
 
 - 🔒 Vaše data zůstávají u vás - aplikace běží kompletně v JavaScriptu ve vašem prohlížeči a žádné soubory se neodesílají na žádný server
 - 📦 Není nutná žádná instalace - jen rozzipujte a spusťte místní soubor (klidně i bez Internetu)
-- 💾 Nízká velikost – pod 1,38 MB, 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
+- 💾 Nízká velikost – okolo 1,5 MB (2 diskety), 12 souborů a 2 podsložky (většina obsahu je zkomprimovaná)
 - 🧩 Snadno použitelný systém pluginů a rozšiřitelná architektura
 - 📥 Snadno nastavitelné hlavní funkce v přehledném stromovém zobrazení
 - 🛡️ Ochrana proti XSS útokům (integrace DOMPurify v jejím standardním nastavení; součást lze volitelně odebrat z instalace)
